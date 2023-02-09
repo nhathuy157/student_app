@@ -1,0 +1,21 @@
+{"type_hotel":[{
+    "id_type": 1,
+    "name_type": "Khách sạn",
+    "imgType":"assets/images/2x/khachsan.png"
+   },
+   {
+    "id_type": 2,
+    "name_type": "Nhà nghỉ",
+    "imgType":"assets/images/2x/nhanghi.png"
+   },
+   {
+    "id_type": 3,
+    "name_type": "Thuê nhà",
+    "imgType":"assets/images/2x/nha.png"
+   },
+   {
+    "id_type": 4,
+    "name_type": "Phòng trọ",
+    "imgType":"assets/images/2x/nhatro.png"
+   }
+]}

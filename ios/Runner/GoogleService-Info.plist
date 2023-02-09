@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>605203084704-051tsbbpeb1a64prtu38ebdn50jvaf6s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.605203084704-051tsbbpeb1a64prtu38ebdn50jvaf6s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>605203084704-a3aqd33efqqb46tdgpp3vtbcjn35rn6u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsz2i-Nuuk65XVE99YhL-AFvGAiMakGMQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>605203084704</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.studentApp</string>
+	<key>PROJECT_ID</key>
+	<string>studentapp-3bb14</string>
+	<key>STORAGE_BUCKET</key>
+	<string>studentapp-3bb14.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:605203084704:ios:61ad1d7f81bdfb875260c5</string>
+	<key>DATABASE_URL</key>
+	<string>https://studentapp-3bb14-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+    "database": {
+        "rules": "database.rules.json"
+    },
+    "firestore": {
+        "rules": "firestore.rules",
+        "indexes": "firestore.indexes.json"
+    },
+    "functions": {
+        "predeploy": [
+            "npm --prefix \"$RESOURCE_DIR\" run lint"
+        ],
+        "source": "functions"
+    },
+    "storage": {
+        "rules": "storage.rules"
+    },
+    "emulators": {
+        "auth": {
+            "port": 9099,
+            "host": "127.0.0.1"
+        },
+        "functions": {
+            "port": 5001,
+            "host": "127.0.0.1"
+        },
+        "firestore": {
+            "port": 8080,
+            "host": "127.0.0.1"
+        },
+        "database": {
+            "port": 9000,
+            "host": "127.0.0.1"
+        },
+        "storage": {
+            "port": 9199,
+            "host": "127.0.0.1"
+        },
+        "ui": {
+            "enabled": true
+        }
+    },
+    "scripts": {
+        "emulators:start": "firebase emulators:start",
+        "emulators:stop": "npx kill-port 4000,8081,8085,9099,9001,9199"
+    }
+}

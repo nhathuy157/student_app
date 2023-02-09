@@ -1,0 +1,222 @@
+{"job_fields_category":[
+ {
+  "id_category_fields": "ban-hang",
+  "name": "Bán hàng"
+ },
+ {
+  "id_category_fields": "tu-van-bao-hiem",
+  "name": "Tư vấn bảo hiểm"
+ },
+ {
+  "id_category_fields": "bao-chi-bien-tap-vien",
+  "name": "Báo chí\/Biên tập viên"
+ },
+ {
+  "id_category_fields": "bat-dong-san",
+  "name": "Bất động sản"
+ },
+ {
+  "id_category_fields": "bien-dich-phien-dich",
+  "name": "Biên dịch\/Phiên dịch"
+ },
+ {
+  "id_category_fields": "buu-chinh-vien-thong",
+  "name": "Bưu chính viễn thông"
+ },
+ {
+  "id_category_fields": "co-khi-ki-thuat-ung-dung",
+  "name": "Cơ khí\/Kĩ thuật ứng dụng"
+ },
+ {
+  "id_category_fields": "cong-nghe-thong-tin",
+  "name": "Công nghệ thông tin"
+ },
+ {
+  "id_category_fields": "dau-khi-dia-chat",
+  "name": "Dầu khí\/Địa chất"
+ },
+ {
+  "id_category_fields": "det-may",
+  "name": "Dệt may"
+ },
+ {
+  "id_category_fields": "bao-ve-ve-si-an-ninh",
+  "name": "Bảo vệ\/Vệ sĩ\/An ninh"
+ },
+ {
+  "id_category_fields": "cham-soc-khach-hang",
+  "name": "Chăm sóc khách hàng"
+ },
+ {
+  "id_category_fields": "dien-dien-tu-dien-lanh",
+  "name": "Điện\/Điện tử\/Điện lạnh"
+ },
+ {
+  "id_category_fields": "du-lich-nha-hang-khach-san",
+  "name": "Du lịch\/Nhà hàng\/Khách sạn"
+ },
+ {
+  "id_category_fields": "duoc-hoa-chat-sinh-hoa",
+  "name": "Dược\/Hóa chất\/Sinh hóa"
+ },
+ {
+  "id_category_fields": "giai-tri-vui-choi",
+  "name": "Giải trí\/Vui chơi"
+ },
+ {
+  "id_category_fields": "giao-duc-dao-tao-thu-vien",
+  "name": "Giáo dục\/Đào tạo\/Thư viện"
+ },
+ {
+  "id_category_fields": "giao-thong-van-tai-thuy-loi-cau-duong",
+  "name": "Giao thông\/Vận tải\/Thủy lợi\/Cầu đường"
+ },
+ {
+  "id_category_fields": "giay-da-thuoc-da",
+  "name": "Giày da\/Thuộc da"
+ },
+ {
+  "id_category_fields": "hanh-chinh-thu-ky-tro-ly",
+  "name": "Hành chính\/Thư ký\/Trợ lý"
+ },
+ {
+  "id_category_fields": "kho-van-vat-tu-thu-mua",
+  "name": "Kho vận\/Vật tư\/Thu mua"
+ },
+ {
+  "id_category_fields": "kien-truc-noi-that",
+  "name": "Kiến trúc\/Nội thất"
+ },
+ {
+  "id_category_fields": "kinh-doanh",
+  "name": "Kinh doanh"
+ },
+ {
+  "id_category_fields": "lao-dong-pho-thong",
+  "name": "Lao động phổ thông"
+ },
+ {
+  "id_category_fields": "luat-phap-ly",
+  "name": "Luật\/Pháp lý"
+ },
+ {
+  "id_category_fields": "moi-truong-xu-ly-chat-thai",
+  "name": "Môi trường\/Xử lý chất thải"
+ },
+ {
+  "id_category_fields": "my-pham-thoi-trang-trang-suc",
+  "name": "Mỹ phẩm\/Thời trang\/Trang sức"
+ },
+ {
+  "id_category_fields": "ngan-hang-chung-khoan-dau-tu",
+  "name": "Ngân hàng\/Chứng khoán\/Đầu tư"
+ },
+ {
+  "id_category_fields": "nghe-thuat-dien-anh",
+  "name": "Nghệ thuật\/Điện ảnh"
+ },
+ {
+  "id_category_fields": "nhan-su",
+  "name": "Nhân sự"
+ },
+ {
+  "id_category_fields": "nong-lam-ngu-nghiep",
+  "name": "Nông\/Lâm\/Ngư nghiệp"
+ },
+ {
+  "id_category_fields": "quan-he-doi-ngoai",
+  "name": "Quan hệ đối ngoại"
+ },
+ {
+  "id_category_fields": "tham-dinh-giam-dinh-quan-ly-chat-luong",
+  "name": "Thẩm định\/Giám định\/Quản lý chất lượng"
+ },
+ {
+  "id_category_fields": "quan-ly-dieu-hanh",
+  "name": "Quản lý điều hành"
+ },
+ {
+  "id_category_fields": "quang-cao-marketing-pr",
+  "name": "Quảng cáo\/Marketing\/PR"
+ },
+ {
+  "id_category_fields": "san-xuat-van-hanh-san-xuat",
+  "name": "Sản xuất\/Vận hành sản xuất"
+ },
+ {
+  "id_category_fields": "tai-chinh-ke-toan-kiem-toan",
+  "name": "Tài chính\/Kế toán\/Kiểm toán"
+ },
+ {
+  "id_category_fields": "the-duc-the-thao",
+  "name": "Thể dục\/Thể thao"
+ },
+ {
+  "id_category_fields": "thiet-ke-my-thuat",
+  "name": "Thiết kế\/Mỹ thuật"
+ },
+ {
+  "id_category_fields": "thuc-pham-dv-an-uong",
+  "name": "Thực phẩm\/DV ăn uống"
+ },
+ {
+  "id_category_fields": "xay-dung",
+  "name": "Xây dựng"
+ },
+ {
+  "id_category_fields": "xuat-nhap-khau-ngoai-thuong",
+  "name": "Xuất - Nhập khẩu\/Ngoại thương"
+ },
+ {
+  "id_category_fields": "y-te",
+  "name": "Y tế"
+ },
+ {
+  "id_category_fields": "khac",
+  "name": "Khác"
+ },
+ {
+  "id_category_fields": "ngoai-ngu",
+  "name": "Ngoại ngữ"
+ },
+ {
+  "id_category_fields": "khu-che-xuat-khu-cong-nghiep",
+  "name": "Khu chế xuất\/Khu công nghiệp"
+ },
+ {
+  "id_category_fields": "lam-dep-the-luc-spa",
+  "name": "Làm đẹp\/Thể lực\/Spa"
+ },
+ {
+  "id_category_fields": "tai-xe-lai-xe-giao-nhan",
+  "name": "Tài xế\/Lái xe\/Giao nhận"
+ },
+ {
+  "id_category_fields": "trang-thiet-bi-cong-nghiep",
+  "name": "Trang thiết bị công nghiệp"
+ },
+ {
+  "id_category_fields": "trang-thiet-bi-gia-dung",
+  "name": "Trang thiết bị gia dụng"
+ },
+ {
+  "id_category_fields": "trang-thiet-bi-van-phong",
+  "name": "Trang thiết bị văn phòng"
+ },
+ {
+  "id_category_fields": "pg-pb-le-tan",
+  "name": "PG\/PB\/Lễ tân"
+ },
+ {
+  "id_category_fields": "phat-trien-thi-truong",
+  "name": "Phát triển thị trường"
+ },
+ {
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+  "name": "Phục vụ\/Tạp vụ\/Giúp việc"
+ },
+ {
+    "id_category_fields": "sinh-hoc",
+    "name": "Sinh học"
+   }
+]}

@@ -1,0 +1,13 @@
+{"type_salary":[{
+    "id_type_salary": 1,
+    "name_type_salary": "Tháng"
+   },
+   {
+    "id_type_salary": 2,
+    "name_type_salary": "Ngày"
+   },
+   {
+    "id_type_salary": 3,
+    "name_type_salary": "Giờ"
+   }
+]}

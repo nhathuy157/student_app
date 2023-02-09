@@ -1,0 +1,2265 @@
+[
+    {
+        "id": "1",
+        "id_building": "1",
+        "name_room": "Phòng A1.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "2",
+        "id_building": "1",
+        "name_room": "Phòng A1.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "3",
+        "id_building": "1",
+        "name_room": "Phòng A1.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "4",
+        "id_building": "1",
+        "name_room": "Phòng A1.4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "5",
+        "id_building": "1",
+        "name_room": "Phòng A1.5",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "6",
+        "id_building": "1",
+        "name_room": "Phòng A1.6",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "7",
+        "id_building": "1",
+        "name_room": "Phòng A1.7",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "8",
+        "id_building": "1",
+        "name_room": "Phòng A1.8",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "9",
+        "id_building": "1",
+        "name_room": "Phòng A1.9",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "10",
+        "id_building": "1",
+        "name_room": "Phòng A1.10",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "11",
+        "id_building": "1",
+        "name_room": "Phòng A1.11",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "12",
+        "id_building": "1",
+        "name_room": "Phòng A1.12",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "13",
+        "id_building": "1",
+        "name_room": "Phòng A1.13",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "14",
+        "id_building": "1",
+        "name_room": "Phòng A1.14",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "15",
+        "id_building": "1",
+        "name_room": "Phòng A1.15",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "16",
+        "id_building": "1",
+        "name_room": "Phòng A1.16",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "17",
+        "id_building": "1",
+        "name_room": "Phòng A1.17",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "18",
+        "id_building": "1",
+        "name_room": "Phòng A1.18",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "19",
+        "id_building": "1",
+        "name_room": "Phòng A1.19",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "20",
+        "id_building": "1",
+        "name_room": "Phòng A1.20",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "21",
+        "id_building": "1",
+        "name_room": "Phòng A1.21",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "22",
+        "id_building": "1",
+        "name_room": "Phòng A1.22",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "23",
+        "id_building": "1",
+        "name_room": "Phòng A1.23",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "24",
+        "id_building": "1",
+        "name_room": "Phòng A1.24",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "25",
+        "id_building": "1",
+        "name_room": "Phòng A1.25",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "26",
+        "id_building": "1",
+        "name_room": "Phòng A1.26",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "27",
+        "id_building": "1",
+        "name_room": "Phòng A1.27",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "28",
+        "id_building": "1",
+        "name_room": "Phòng A1.28",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "29",
+        "id_building": "1",
+        "name_room": "Phòng A1.29",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+
+    {
+        "id": "1",
+        "id_building": "2",
+        "name_room": "Phòng A2.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "2",
+        "id_building": "2",
+        "name_room": "Phòng A2.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "3",
+        "id_building": "2",
+        "name_room": "Phòng A2.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "4",
+        "id_building": "2",
+        "name_room": "Phòng A2.4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "5",
+        "id_building": "2",
+        "name_room": "Phòng A2.5",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "6",
+        "id_building": "2",
+        "name_room": "Phòng A2.6",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "7",
+        "id_building": "2",
+        "name_room": "Phòng A2.7",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "8",
+        "id_building": "2",
+        "name_room": "Phòng A2.8",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "9",
+        "id_building": "2",
+        "name_room": "Phòng A2.9",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "10",
+        "id_building": "2",
+        "name_room": "Phòng A2.10",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "11",
+        "id_building": "2",
+        "name_room": "Phòng A2.11",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "12",
+        "id_building": "2",
+        "name_room": "Phòng A2.12",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "13",
+        "id_building": "2",
+        "name_room": "Phòng A2.13",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "14",
+        "id_building": "2",
+        "name_room": "Phòng A2.14",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "15",
+        "id_building": "2",
+        "name_room": "Phòng A2.15",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "16",
+        "id_building": "2",
+        "name_room": "Phòng A2.16",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "17",
+        "id_building": "2",
+        "name_room": "Phòng A2.17",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "18",
+        "id_building": "2",
+        "name_room": "Phòng A2.18",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "19",
+        "id_building": "2",
+        "name_room": "Phòng A2.19",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "20",
+        "id_building": "2",
+        "name_room": "Phòng A2.20",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "21",
+        "id_building": "2",
+        "name_room": "Phòng A2.21",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "22",
+        "id_building": "2",
+        "name_room": "Phòng A2.22",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "23",
+        "id_building": "2",
+        "name_room": "Phòng A2.23",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "24",
+        "id_building": "2",
+        "name_room": "Phòng A2.24",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "25",
+        "id_building": "2",
+        "name_room": "Phòng A2.25",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "26",
+        "id_building": "2",
+        "name_room": "Phòng A2.26",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "27",
+        "id_building": "2",
+        "name_room": "Phòng A2.27",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "28",
+        "id_building": "2",
+        "name_room": "Phòng A2.28",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "29",
+        "id_building": "2",
+        "name_room": "Phòng A2.29",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+
+    {
+        "id": "1",
+        "id_building": "3",
+        "name_room": "Phòng A3.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "2",
+        "id_building": "3",
+        "name_room": "Phòng A3.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "3",
+        "id_building": "3",
+        "name_room": "Phòng A3.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "4",
+        "id_building": "3",
+        "name_room": "Phòng A3.4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "5",
+        "id_building": "3",
+        "name_room": "Phòng A3.5",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "6",
+        "id_building": "3",
+        "name_room": "Phòng A3.6",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "7",
+        "id_building": "3",
+        "name_room": "Phòng A3.7",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "8",
+        "id_building": "3",
+        "name_room": "Phòng A3.8",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "9",
+        "id_building": "3",
+        "name_room": "Phòng A3.9",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "10",
+        "id_building": "3",
+        "name_room": "Phòng A3.10",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "11",
+        "id_building": "3",
+        "name_room": "Phòng A3.11",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "12",
+        "id_building": "3",
+        "name_room": "Phòng A3.12",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "13",
+        "id_building": "3",
+        "name_room": "Phòng A3.13",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "14",
+        "id_building": "3",
+        "name_room": "Phòng A3.14",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "15",
+        "id_building": "3",
+        "name_room": "Phòng A3.15",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "16",
+        "id_building": "3",
+        "name_room": "Phòng A3.16",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "17",
+        "id_building": "3",
+        "name_room": "Phòng A3.17",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "18",
+        "id_building": "3",
+        "name_room": "Phòng A3.18",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "19",
+        "id_building": "3",
+        "name_room": "Phòng A3.19",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "20",
+        "id_building": "3",
+        "name_room": "Phòng A3.20",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "21",
+        "id_building": "3",
+        "name_room": "Phòng A3.21",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "22",
+        "id_building": "3",
+        "name_room": "Phòng A3.22",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "23",
+        "id_building": "3",
+        "name_room": "Phòng A3.23",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "24",
+        "id_building": "3",
+        "name_room": "Phòng A3.24",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "25",
+        "id_building": "3",
+        "name_room": "Phòng A3.25",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "26",
+        "id_building": "3",
+        "name_room": "Phòng A3.26",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "27",
+        "id_building": "3",
+        "name_room": "Phòng A3.27",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "28",
+        "id_building": "3",
+        "name_room": "Phòng A3.28",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "29",
+        "id_building": "3",
+        "name_room": "Phòng A3.29",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+
+    {
+        "id": "1",
+        "id_building": "4",
+        "name_room": "Phòng A4.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "2",
+        "id_building": "4",
+        "name_room": "Phòng A4.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "3",
+        "id_building": "4",
+        "name_room": "Phòng A4.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "4",
+        "id_building": "4",
+        "name_room": "Phòng A4.4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "5",
+        "id_building": "4",
+        "name_room": "Phòng A4.5",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "6",
+        "id_building": "4",
+        "name_room": "Phòng A4.6",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "7",
+        "id_building": "4",
+        "name_room": "Phòng A4.7",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "8",
+        "id_building": "4",
+        "name_room": "Phòng A4.8",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "9",
+        "id_building": "4",
+        "name_room": "Phòng A4.9",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "10",
+        "id_building": "4",
+        "name_room": "Phòng A4.10",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "11",
+        "id_building": "4",
+        "name_room": "Phòng A4.11",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "12",
+        "id_building": "4",
+        "name_room": "Phòng A4.12",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "13",
+        "id_building": "4",
+        "name_room": "Phòng A4.13",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "14",
+        "id_building": "4",
+        "name_room": "Phòng A4.14",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "15",
+        "id_building": "4",
+        "name_room": "Phòng A4.15",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "16",
+        "id_building": "4",
+        "name_room": "Phòng A4.16",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "17",
+        "id_building": "4",
+        "name_room": "Phòng A4.17",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "18",
+        "id_building": "4",
+        "name_room": "Phòng A4.18",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "19",
+        "id_building": "4",
+        "name_room": "Phòng A4.19",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "20",
+        "id_building": "4",
+        "name_room": "Phòng A4.20",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "21",
+        "id_building": "4",
+        "name_room": "Phòng A4.21",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "22",
+        "id_building": "4",
+        "name_room": "Phòng A4.22",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "23",
+        "id_building": "4",
+        "name_room": "Phòng A4.23",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "24",
+        "id_building": "4",
+        "name_room": "Phòng A4.24",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "25",
+        "id_building": "4",
+        "name_room": "Phòng A4.25",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "26",
+        "id_building": "4",
+        "name_room": "Phòng A4.26",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "27",
+        "id_building": "4",
+        "name_room": "Phòng A4.27",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "28",
+        "id_building": "4",
+        "name_room": "Phòng A4.28",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "29",
+        "id_building": "4",
+        "name_room": "Phòng A4.29",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+
+    {
+        "id": "1",
+        "id_building": "5",
+        "name_room": "Phòng A5.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "2",
+        "id_building": "5",
+        "name_room": "Phòng A5.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "3",
+        "id_building": "5",
+        "name_room": "Phòng A5.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "4",
+        "id_building": "5",
+        "name_room": "Phòng A5.4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "5",
+        "id_building": "5",
+        "name_room": "Phòng A5.5",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "6",
+        "id_building": "5",
+        "name_room": "Phòng A5.6",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "7",
+        "id_building": "5",
+        "name_room": "Phòng A5.7",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "8",
+        "id_building": "5",
+        "name_room": "Phòng A5.8",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "9",
+        "id_building": "5",
+        "name_room": "Phòng A5.9",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "10",
+        "id_building": "5",
+        "name_room": "Phòng A5.10",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "11",
+        "id_building": "5",
+        "name_room": "Phòng A5.11",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "12",
+        "id_building": "5",
+        "name_room": "Phòng A5.12",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "13",
+        "id_building": "5",
+        "name_room": "Phòng A5.13",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "14",
+        "id_building": "5",
+        "name_room": "Phòng A5.14",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "15",
+        "id_building": "5",
+        "name_room": "Phòng A5.15",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "16",
+        "id_building": "5",
+        "name_room": "Phòng A5.16",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "17",
+        "id_building": "5",
+        "name_room": "Phòng A5.17",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "18",
+        "id_building": "5",
+        "name_room": "Phòng A5.18",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "19",
+        "id_building": "5",
+        "name_room": "Phòng A5.19",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "20",
+        "id_building": "5",
+        "name_room": "Phòng A5.20",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "21",
+        "id_building": "5",
+        "name_room": "Phòng A5.21",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "22",
+        "id_building": "5",
+        "name_room": "Phòng A5.22",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "23",
+        "id_building": "5",
+        "name_room": "Phòng A5.23",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "24",
+        "id_building": "5",
+        "name_room": "Phòng A5.24",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "25",
+        "id_building": "5",
+        "name_room": "Phòng A5.25",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "26",
+        "id_building": "5",
+        "name_room": "Phòng A5.26",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "27",
+        "id_building": "5",
+        "name_room": "Phòng A5.27",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "28",
+        "id_building": "5",
+        "name_room": "Phòng A5.28",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "29",
+        "id_building": "5",
+        "name_room": "Phòng A5.29",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+
+    {
+        "id": "1",
+        "id_building": "6",
+        "name_room": "Phòng Hội trường khởi nghiệp",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "2",
+        "id_building": "6",
+        "name_room": "Phòng IT Center",
+        "description": "Học tập và code",
+        "number_of_floor": 2
+    },
+
+    {
+        "id": "1",
+        "id_building": "7",
+        "name_room": "Phòng A7.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "2",
+        "id_building": "7",
+        "name_room": "Phòng A7.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "3",
+        "id_building": "7",
+        "name_room": "Phòng A7.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "4",
+        "id_building": "7",
+        "name_room": "Phòng A7.4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "5",
+        "id_building": "7",
+        "name_room": "Phòng A7.5",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "6",
+        "id_building": "7",
+        "name_room": "Phòng A7.6",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "7",
+        "id_building": "7",
+        "name_room": "Phòng A7.7",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "8",
+        "id_building": "7",
+        "name_room": "Phòng A7.8",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "9",
+        "id_building": "7",
+        "name_room": "Phòng Phòng giáo viên",
+        "description": "Phòng giáo viên",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "10",
+        "id_building": "7",
+        "name_room": "Phòng VPK KT-OTKD",
+        "description": "Hỗ trợ SV",
+        "number_of_floor": 2
+    },
+    {
+        "id": "11",
+        "id_building": "7",
+        "name_room": "Phòng VPK Sư Phạm",
+        "description": "Hỗ trợ SV khoa sư phạm",
+        "number_of_floor": 2
+    },
+    {
+        "id": "12",
+        "id_building": "7",
+        "name_room": "Phòng VPK Ngữ văn và hóa học",
+        "description": "Hỗ trợ SV khoa ngữ văn và hóa học",
+        "number_of_floor": 2
+    },
+    {
+        "id": "13",
+        "id_building": "7",
+        "name_room": "Phòng VPK Công nghệ thông tin",
+        "description": "Hỗ trợ SV khoa CNTT",
+        "number_of_floor": 2
+    },
+    {
+        "id": "14",
+        "id_building": "7",
+        "name_room": "Phòng VPK Lý luận chính trị",
+        "description": "Hỗ trợ SV",
+        "number_of_floor": 2
+    },
+    {
+        "id": "15",
+        "id_building": "7",
+        "name_room": "Phòng VPK Công tác xã hội",
+        "description": "Hỗ trợ SV",
+        "number_of_floor": 2
+    },
+    {
+        "id": "16",
+        "id_building": "7",
+        "name_room": "Phòng VPK tài nguyên môi trường",
+        "description": "Hỗ trợ SV",
+        "number_of_floor": 2
+    },
+
+    {
+        "id": "1",
+        "id_building": "8",
+        "name_room": "Phòng A8.7.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "2",
+        "id_building": "8",
+        "name_room": "Phòng A8.7.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 48
+    },
+    {
+        "id": "3",
+        "id_building": "8",
+        "name_room": "Phòng A8.8.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "4",
+        "id_building": "8",
+        "name_room": "Phòng A8.8.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "5",
+        "id_building": "8",
+        "name_room": "Phòng Phòng giáo viên",
+        "description": "Phòng giáo viên",
+        "number_of_floor": 1
+    },
+    {
+        "id": "6",
+        "id_building": "8",
+        "name_room": "Phòng A8.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "7",
+        "id_building": "8",
+        "name_room": "Phòng A8.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 70
+    },
+    {
+        "id": "8",
+        "id_building": "8",
+        "name_room": "Phòng A8.4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 70
+    },
+    {
+        "id": "9",
+        "id_building": "8",
+        "name_room": "Phòng Hội trường A8B",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 415
+    },
+    {
+        "id": "10",
+        "id_building": "8",
+        "name_room": "Phòng A8.5.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 50
+    },
+    {
+        "id": "11",
+        "id_building": "8",
+        "name_room": "Phòng A8.5.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 60
+    },
+    {
+        "id": "12",
+        "id_building": "8",
+        "name_room": "Phòng A8.6.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 60
+    },
+    {
+        "id": "13",
+        "id_building": "8",
+        "name_room": "Phòng A8.6.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 60
+    },
+    {
+        "id": "14",
+        "id_building": "8",
+        "name_room": "Phòng Cao học A8",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+
+    {
+        "id": "1",
+        "id_building": "11",
+        "name_room": "Phòng 101",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "2",
+        "id_building": "11",
+        "name_room": "Phòng 102 - PTN vi sinh môi trường",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 50
+    },
+    {
+        "id": "3",
+        "id_building": "11",
+        "name_room": "Phòng TN Nghiên cứu kỹ thuật môi trường",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "4",
+        "id_building": "11",
+        "name_room": "Phòng 104- Bộ môn vật lý - lý thuyết",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 40
+    },
+    {
+        "id": "5",
+        "id_building": "11",
+        "name_room": "Phòng tin vật lý đại cương",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "6",
+        "id_building": "11",
+        "name_room": "Phòng 105 - PTN điều khiển tự động",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 40
+    },
+    {
+        "id": "7",
+        "id_building": "11",
+        "name_room": "Phòng 106",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 60
+    },
+    {
+        "id": "8",
+        "id_building": "11",
+        "name_room": "Phòng 107",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 100
+    },
+    {
+        "id": "9",
+        "id_building": "11",
+        "name_room": "Phòng 206 - Khóa kỹ thuật hạt nhân",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "10",
+        "id_building": "11",
+        "name_room": "Phòng 205- Khoa vật lý hạt nhân",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 30
+    },
+    {
+        "id": "11",
+        "id_building": "11",
+        "name_room": "Phòng 204 - PTN công nghệ giống cây 2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 100
+    },
+    {
+        "id": "12",
+        "id_building": "11",
+        "name_room": "Phòng 203 - Phòng họp",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "13",
+        "id_building": "11",
+        "name_room": "Phòng 202",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 105
+    },
+    {
+        "id": "14",
+        "id_building": "11",
+        "name_room": "Phòng 201",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 40
+    },
+    {
+        "id": "15",
+        "id_building": "11",
+        "name_room": "Phòng 301 - PTN công nghệ vi sinh",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity": 80
+    },
+    {
+        "id": "16",
+        "id_building": "11",
+        "name_room": "Phòng 302 - PTN công nghệ nấm",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity": 50
+    },
+    {
+        "id": "17",
+        "id_building": "11",
+        "name_room": "Phòng 303 - Nông hóa và thổ nhưỡng",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity": 80
+    },
+    {
+        "id": "18",
+        "id_building": "11",
+        "name_room": "Phòng 304 - PTN công nghệ sinh học",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "19",
+        "id_building": "11",
+        "name_room": "Phòng TN - Công nghệ giống cây trồng",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity": 60
+    },
+    {
+        "id": "20",
+        "id_building": "11",
+        "name_room": "Phòng VNC và UD nông nghiệp công nghệ cao",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "21",
+        "id_building": "11",
+        "name_room": "Phòng 306 - PTN công nghệ sinh học",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+    {
+        "id": "22",
+        "id_building": "11",
+        "name_room": "Phòng Viện nghiên cứu kiểm định",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 4,
+        "capacity": 10
+    },
+    {
+        "id": "23",
+        "id_building": "11",
+        "name_room": "Phòng 404",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 4
+    },
+    {
+        "id": "24",
+        "id_building": "11",
+        "name_room": "Phòng 405",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 4
+    },
+    {
+        "id": "25",
+        "id_building": "11",
+        "name_room": "Phòng 402 - PTN phân tích môi trường",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 4,
+        "capacity": 200
+    },
+    {
+        "id": "26",
+        "id_building": "11",
+        "name_room": "Phòng 401",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 4,
+        "capacity": 200
+    },
+    {
+        "id": "27",
+        "id_building": "11",
+        "name_room": "Phòng Viện trưởng",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 4
+    },
+
+    {
+        "id": "1",
+        "id_building": "13",
+        "name_room": "Chưa có",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+
+    {
+        "id": "1",
+        "id_building": "15",
+        "name_room": "Căn tin",
+        "description": "Ăn uống",
+        "number_of_floor": "trệt"
+    },
+    {
+        "id": "2",
+        "id_building": "15",
+        "name_room": "Hội trường thư viện",
+        "description": "Học tập và làm việc",
+        "number_of_floor": "trệt"
+    },
+    {
+        "id": "3",
+        "id_building": "15",
+        "name_room": "Phòng TV1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": "trệt",
+        "capacity": 38
+    },
+    {
+        "id": "4",
+        "id_building": "15",
+        "name_room": "Phòng TV2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": "trệt",
+        "capacity": 40
+    },
+    {
+        "id": "5",
+        "id_building": "15",
+        "name_room": "Phòng TV3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 40
+    },
+    {
+        "id": "6",
+        "id_building": "15",
+        "name_room": "Phòng TV4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 40
+    },
+    {
+        "id": "7",
+        "id_building": "15",
+        "name_room": "Sảnh trưng bày, tự học",
+        "description": "Tham quan, học tập",
+        "number_of_floor": 1
+    },
+    {
+        "id": "8",
+        "id_building": "15",
+        "name_room": "Phòng tự học",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "9",
+        "id_building": "15",
+        "name_room": "Thư viện",
+        "description": "Đọc sách, mượn sách",
+        "number_of_floor": 2
+    },
+    {
+        "id": "10",
+        "id_building": "15",
+        "name_room": "Phòng tự học",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3
+    },
+
+    {
+        "id": "1",
+        "id_building": "18",
+        "name_room": "Phòng y tế",
+        "description": "Hỗ trợ sinh viên về sức khỏe",
+        "number_of_floor": 1
+    },
+    {
+        "id": "2",
+        "id_building": "18",
+        "name_room": "VPK Luật",
+        "description": "Hỗ trợ sinh viên khoa luật",
+        "number_of_floor": 1
+    },
+    {
+        "id": "3",
+        "id_building": "18",
+        "name_room": "VPK du lịch",
+        "description": "Hỗ trợ sinh viên khoa du lịch",
+        "number_of_floor": 1
+    },
+    {
+        "id": "4",
+        "id_building": "18",
+        "name_room": "VPK lịch sử",
+        "description": "Hỗ trợ sinh viên khoa lịch sử",
+        "number_of_floor": 1
+    },
+    {
+        "id": "5",
+        "id_building": "18",
+        "name_room": "Cửa hàng sinh viên",
+        "description": "",
+        "number_of_floor": 1
+    },
+
+    {
+        "id": "1",
+        "id_building": "19",
+        "name_room": "Phòng A19.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 80
+    },
+    {
+        "id": "2",
+        "id_building": "19",
+        "name_room": "Phòng A19.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 80
+    },
+    {
+        "id": "3",
+        "id_building": "19",
+        "name_room": "Phòng A19.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 80
+    },
+    {
+        "id": "4",
+        "id_building": "19",
+        "name_room": "Phòng A19.4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 80
+    },
+    {
+        "id": "5",
+        "id_building": "19",
+        "name_room": "Phòng A19.5",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 80
+    },
+    {
+        "id": "6",
+        "id_building": "19",
+        "name_room": "Phòng A19.6",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 80
+    },
+    {
+        "id": "7",
+        "id_building": "19",
+        "name_room": "Phòng A19.7",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 80
+    },
+    {
+        "id": "8",
+        "id_building": "19",
+        "name_room": "Phòng A19.TN",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 200
+    },
+    {
+        "id": "9",
+        "id_building": "19",
+        "name_room": "Phòng A19.TN1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 80
+    },
+    {
+        "id": "10",
+        "id_building": "19",
+        "name_room": "Phòng A19.10",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+
+    {
+        "id": "1",
+        "id_building": "20",
+        "name_room": "Phòng 101",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 102
+    },
+    {
+        "id": "2",
+        "id_building": "20",
+        "name_room": "Phòng 102",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "3",
+        "id_building": "20",
+        "name_room": "Phòng 103",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 40
+    },
+    {
+        "id": "4",
+        "id_building": "20",
+        "name_room": "Phòng 104",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 48
+    },
+    {
+        "id": "5",
+        "id_building": "20",
+        "name_room": "Phòng 105",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 56
+    },
+    {
+        "id": "6",
+        "id_building": "20",
+        "name_room": "Phòng 106",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "7",
+        "id_building": "20",
+        "name_room": "Khoa quốc tế học",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "8",
+        "id_building": "20",
+        "name_room": "Phòng 201 - Phòng học tiếng việt cho người nước ngoài",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 42
+    },
+    {
+        "id": "9",
+        "id_building": "20",
+        "name_room": "Phòng 202",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "10",
+        "id_building": "20",
+        "name_room": "Phòng 203",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "11",
+        "id_building": "20",
+        "name_room": "Phòng 204",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "12",
+        "id_building": "20",
+        "name_room": "Phòng 205",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+    {
+        "id": "13",
+        "id_building": "20",
+        "name_room": "Phòng 206",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+
+    {
+        "id": "1",
+        "id_building": "21",
+        "name_room": "Phòng A21.1 - Phòng kho GDOP",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "2",
+        "id_building": "21",
+        "name_room": "Phòng A21.2 - Phòng kho GDOP",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "3",
+        "id_building": "21",
+        "name_room": "Phòng A21.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "4",
+        "id_building": "21",
+        "name_room": "Phòng A21.4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "5",
+        "id_building": "21",
+        "name_room": "Phòng A21.5",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+
+    {
+        "id": "1",
+        "id_building": "24",
+        "name_room": "Phòng A24.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 100
+    },
+
+    {
+        "id": "2",
+        "id_building": "24",
+        "name_room": "Phòng A24.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+
+    {
+        "id": "3",
+        "id_building": "24",
+        "name_room": "Phòng A24.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+
+    {
+        "id": "4",
+        "id_building": "24",
+        "name_room": "Phòng A24.4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "5",
+        "id_building": "24",
+        "name_room": "Phòng A24.5",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "6",
+        "id_building": "24",
+        "name_room": "Phòng A24.6",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "7",
+        "id_building": "24",
+        "name_room": "Phòng A24.LAU",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2
+    },
+
+    {
+        "id": "1",
+        "id_building": "26",
+        "name_room": "Sân bóng chuyền",
+        "description": "Thể thao và thể dục",
+        "number_of_floor": 1
+    },
+    {
+        "id": "2",
+        "id_building": "26",
+        "name_room": "Sân bóng đá",
+        "description": "Thể thao và thể dục",
+        "number_of_floor": 1
+    },
+    {
+        "id": "3",
+        "id_building": "26",
+        "name_room": "Sân cầu lông",
+        "description": "Thể thao và thể dục",
+        "number_of_floor": 1
+    },
+
+    {
+        "id": "4",
+        "id_building": "26",
+        "name_room": "Nhà thi đấu",
+        "description": "Thể thao và thể dục",
+        "number_of_floor": 1
+    },
+    {
+        "id": "5",
+        "id_building": "26",
+        "name_room": "Phòng GDOP - An ninh và thể chất",
+        "description": "Thể dục và quốc phòng",
+        "number_of_floor": 1
+    },
+    {
+        "id": "6",
+        "id_building": "26",
+        "name_room": "CLB bóng bàn",
+        "description": "Thể thao và thể dục",
+        "number_of_floor": 1
+    },
+    {
+        "id": "7",
+        "id_building": "26",
+        "name_room": "Phòng trưởng bộ môn GDTC",
+        "description": "Thể thao và thể dục",
+        "number_of_floor": 1
+    },
+    {
+        "id": "4",
+        "id_building": "26",
+        "name_room": "Phòng VĐV",
+        "description": "Thể thao và thể dục",
+        "number_of_floor": 1
+    },
+    {
+        "id": "4",
+        "id_building": "26",
+        "name_room": "Phòng HLV",
+        "description": "Thể thao và thể dục",
+        "number_of_floor": 1
+    },
+
+    {
+        "id": "1",
+        "id_building": "27",
+        "name_room": "Phòng giáo viên",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+
+    {
+        "id": "2",
+        "id_building": "27",
+        "name_room": "Phòng A27.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 120
+    },
+    {
+        "id": "3",
+        "id_building": "27",
+        "name_room": "Phòng A27.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 110
+    },
+    {
+        "id": "4",
+        "id_building": "27",
+        "name_room": "Phòng A27.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity": 110
+    },
+    {
+        "id": "5",
+        "id_building": "27",
+        "name_room": "Phòng A25.5",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 96
+    },
+    {
+        "id": "6",
+        "id_building": "27",
+        "name_room": "Phòng A27.6",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 96
+    },
+    {
+        "id": "7",
+        "id_building": "27",
+        "name_room": "Phòng A27.6B",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 15
+    },
+    {
+        "id": "8",
+        "id_building": "27",
+        "name_room": "Phòng A27.7",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 120
+    },
+    {
+        "id": "9",
+        "id_building": "27",
+        "name_room": "Phòng A27.8",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 96
+    },
+    {
+        "id": "10",
+        "id_building": "27",
+        "name_room": "Phòng A27.9",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity": 96
+    },
+    {
+        "id": "11",
+        "id_building": "27",
+        "name_room": "Phòng A27.10",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity": 96
+    },
+    {
+        "id": "12",
+        "id_building": "27",
+        "name_room": "Phòng A27.10B",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity": 10
+    },
+    {
+        "id": "13",
+        "id_building": "27",
+        "name_room": "Phòng A27.11",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity": 130
+    },
+    {
+        "id": "14",
+        "id_building": "27",
+        "name_room": "Phòng A27.12",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity": 130
+    },
+
+
+    {
+        "id": "1",
+        "id_building": "28",
+        "name_room": "Phòng giáo viên",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+
+    {
+        "id": "2",
+        "id_building": "28",
+        "name_room": "Phòng A30.1",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity":48 
+    },
+    {
+        "id": "3",
+        "id_building": "28",
+        "name_room": "Phòng A30.2",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "4",
+        "id_building": "28",
+        "name_room": "Phòng A30.3",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity":40 
+    },
+    {
+        "id": "5",
+        "id_building": "28",
+        "name_room": "Phòng A30.4",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity":40 
+    },
+    {
+        "id": "6",
+        "id_building": "28",
+        "name_room": "Phòng A30.5",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity":48 
+    },
+    {
+        "id": "7",
+        "id_building": "28",
+        "name_room": "Phòng A30.6",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1
+    },
+    {
+        "id": "8",
+        "id_building": "28",
+        "name_room": "Phòng A30.7",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity":30 
+    },
+    {
+        "id": "9",
+        "id_building": "28",
+        "name_room": "Phòng A30.8",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity":30 
+    },
+    {
+        "id": "10",
+        "id_building": "28",
+        "name_room": "Phòng A30.9",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity":66 
+    },
+    {
+        "id": "11",
+        "id_building": "28",
+        "name_room": "Phòng A30.10",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity":69 
+    },
+    {
+        "id": "12",
+        "id_building": "28",
+        "name_room": "Phòng A30.11",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity":76 
+    },
+    {
+        "id": "13",
+        "id_building": "28",
+        "name_room": "Phòng A30.12",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity":18 
+    },
+
+    {
+        "id": "1",
+        "id_building": "29",
+        "name_room": "Phòng A31.101",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity":70 
+    },
+    {
+        "id": "2",
+        "id_building": "29",
+        "name_room": "Phòng A31.102",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity":70 
+    },
+    {
+        "id": "3",
+        "id_building": "29",
+        "name_room": "Phòng A31.103",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity":56 
+    },
+    {
+        "id": "4",
+        "id_building": "29",
+        "name_room": "Phòng A31.104",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity":56 
+    },
+    {
+        "id": "5",
+        "id_building": "29",
+        "name_room": "Phòng A31.105",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 1,
+        "capacity":110 
+    },
+    {
+        "id": "6",
+        "id_building": "29",
+        "name_room": "Phòng A31.201",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity":280 
+    },
+    {
+        "id": "7",
+        "id_building": "29",
+        "name_room": "Phòng A31.202",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity":110 
+    },
+    {
+        "id": "8",
+        "id_building": "29",
+        "name_room": "Phòng A31.203",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity":56 
+    },
+    {
+        "id": "9",
+        "id_building": "29",
+        "name_room": "Phòng A31.204",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity":56 
+    },
+    {
+        "id": "10",
+        "id_building": "29",
+        "name_room": "Phòng A31.205",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity": 56
+    },
+    {
+        "id": "11",
+        "id_building": "29",
+        "name_room": "Phòng A31.206",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 2,
+        "capacity":110 
+    },
+    {
+        "id": "12",
+        "id_building": "29",
+        "name_room": "Phòng A31.301",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity":56 
+    },
+    {
+        "id": "13",
+        "id_building": "29",
+        "name_room": "Phòng A31.302",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity":70 
+    },
+    {
+        "id": "14",
+        "id_building": "29",
+        "name_room": "Phòng A31.303",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity":110 
+    },
+    {
+        "id": "15",
+        "id_building": "29",
+        "name_room": "Phòng A31.304",
+        "description": "Học tập và làm việc",
+        "number_of_floor": 3,
+        "capacity":10 
+    }
+
+
+]

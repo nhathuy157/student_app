@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [
+        "ARGB",
+        "bottombar",
+        "cupertino",
+        "Đang",
+        "firestore",
+        "fluttertoast",
+        "giam",
+        "gridview",
+        "hieu",
+        "interps",
+        "jobnature",
+        "jsonflie",
+        "listview",
+        "oolytstvhs",
+        "schoolcouncil",
+        "spinkit",
+        "vsync"
+    ],
+    "cSpell.enableFiletypes": [
+        "!json"
+    ],
+    "git.ignoreLimitWarning": true
+}

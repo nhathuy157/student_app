@@ -1,0 +1,99 @@
+ [
+     
+    {
+        "id_shop_category": "0_product_new",
+        "name": "Các sản phẩm mới",
+        "image_link": "assets/images/shop/category/ic_new.svg",
+        "undefined": "ic_learning_tool.svg"
+    },
+        {
+            "id_shop_category": "1",
+            "name": "Dụng Cụ Học Tập",
+            "image_link": "assets/images/shop/category/ic_learning_tool.svg",
+            "undefined": "ic_learning_tool.svg"
+        },
+        {
+            "id_shop_category": "2",
+            "name": "Giáo Trình & Sách, Vở",
+            "image_link": "assets/images/shop/category/ic_book_notebook.svg",
+            "undefined": "ic_book_notebook.svg"
+        },
+        {
+            "id_shop_category": "3",
+            "name": "Thời Trang",
+            "image_link": "assets/images/shop/category/ic_fashion.svg",
+            "undefined": "ic_fashion.svg"
+        },
+        {
+            "id_shop_category": "4",
+            "name": "Điện Thoại & Phụ Kiện",
+            "image_link": "assets/images/shop/category/ic_phone_and_asscessories.svg",
+            "undefined": "ic_phone_and_asscessories.svg"
+        },
+        {
+            "id_shop_category": "5",
+            "name": "Thiết Bị Điện Tử",
+            "image_link": "assets/images/shop/category/ic_electronic_device.svg",
+            "undefined": "ic_electronic_device.svg"
+        },
+        {
+            "id_shop_category": "6",
+            "name": "Nhà Cửa & Đời Sống",
+            "image_link": "assets/images/shop/category/ic_house_and_life.svg",
+            "undefined": "ic_house_and_life.svg"
+        },
+        {
+            "id_shop_category": "7",
+            "name": "Máy Tính & Laptop",
+            "image_link": "assets/images/shop/category/ic_pc_and_laptop.svg",
+            "undefined": "ic_pc_and_laptop.svg"
+        },
+        {
+            "id_shop_category": "8",
+            "name": "Sắc đẹp",
+            "image_link": "assets/images/shop/category/ic_beauty.svg",
+            "undefined": "ic_beauty.svg"
+        },
+        {
+            "id_shop_category": "9",
+            "name": "Sức khỏe",
+            "image_link": "assets/images/shop/category/ic_heath.svg",
+            "undefined": "ic_heath.svg"
+        },
+        {
+            "id_shop_category": "10",
+            "name": "Giày dép",
+            "image_link": "assets/images/shop/category/ic_shoe.svg",
+            "undefined": "ic_shoe.svg"
+        },
+        {
+            "id_shop_category": "11",
+            "name": "Túi",
+            "image_link": "assets/images/shop/category/ic_backpack.svg",
+            "undefined": "ic_backpack.svg"
+        },
+        {
+            "id_shop_category": "12",
+            "name": "Thiết Bị Điện Gia Dụng",
+            "image_link": "assets/images/shop/category/ic_household_electical_appliances.svg",
+            "undefined": "ic_household_electical_appliances.svg"
+        },
+        {
+            "id_shop_category": "13",
+            "name": "Đồng Hồ & Trang Sức",
+            "image_link": "assets/images/shop/category/ic_watch_and_jewlry.svg",
+            "undefined": "ic_watch_and_jewlry.svg"
+        },
+        {
+            "id_shop_category": "14",
+            "name": "Thể Thao & Du Lịch",
+            "image_link": "assets/images/shop/category/ic_sport_and_travel.svg",
+            "undefined": "ic_sport_and_travel.svg"
+        },
+        {
+            "id_shop_category": "15",
+            "name": "Ô tô, Xe máy & Xe Đạp",
+            "image_link": "assets/images/shop/category/ic_car_motocycle_bicycle.svg",
+            "undefined": "ic_car_motocycle_bicycle.svg"
+        }
+    ]

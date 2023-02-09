@@ -1,0 +1,26 @@
+{"job_natural_category":[
+ {
+  "id_natural": "full_time",
+  "name": "Toàn thời gian"
+ },
+ {
+  "id_natural": "part-time",
+  "name": "Bán thời gian"
+ },
+ {
+  "id_natural": "intership",
+  "name": "Thực tập"
+ },
+ {
+  "id_natural": "teporary",
+  "name": "Tạm thời"
+ },
+ {
+  "id_natural": "contract",
+  "name": "Hợp đồng"
+ },
+ {
+  "id_natural": "remote",
+  "name": "Làm việc từ xa"
+ }
+]}

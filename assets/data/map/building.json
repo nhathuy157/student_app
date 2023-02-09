@@ -1,0 +1,609 @@
+[
+    {
+        "id": "1",
+        "name": "Tòa A1",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "chua co du lieu",
+        "geo": {
+            "lat": 11.954546285572864,
+            "lng": 108.44406008720397
+        },
+        "total_rooms": 20,
+        "total_floors": 3,
+        "phone": "01232382323",
+        "website": "ahfjd",
+        "description": "Toa nha dung de xu ly cac cong tac ho tro sinh vien",
+        "list_photo": [
+            "assets/images/map/A1/1.JPG",
+            "assets/images/map/thu_vien/1.png"
+        ]
+    },
+
+    {
+        "id": "2",
+        "name": "Tòa A2",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "chua co du lieu",
+        "geo": {
+            "lat": 11.955080604760736,
+            "lng": 108.44453014433384
+        },
+        "total_rooms": 20,
+        "total_floors": 3,
+        "phone": "01232382323",
+        "website": "a ",
+        "description": "Tòa nhà dùng để sinh viên học tập, làm việc",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/2.PNG"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Tòa A3",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "chua co du lieu",
+        "geo": {
+            "lat": 11.955351864006058,
+            "lng": 108.44395246356726
+        },
+        "total_rooms": 20,
+        "total_floors": 3,
+        "phone": "02356547364537645341232382323",
+        "website": "https://google.com/dfjdgfjd/fdhfjdfhjdhfg/fdhfjgfjdhf/erheohfef",
+        "description": "Toa nha dung de xu ly cac cong tac ho tro sinh vien",
+        "list_photo": [
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG"
+        ]
+    },
+
+    {
+        "id": "4",
+        "name": "Tòa A4",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "chua co du lieu",
+        "geo": {
+            "lat": 11.954963507275762,
+            "lng": 108.44338215887547
+        },
+        "total_rooms": 20,
+        "total_floors": 3,
+        "phone": "01232382323",
+        "website": "afhd",
+        "description": "Tòa nhà dùng để sinh viên học tập, làm việc",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/7.jpg"
+        ]
+    },
+
+    {
+        "id": "5",
+        "name": "Tòa A5",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "chua co du lieu that",
+        "geo": {
+            "lat": 11.955765148427801,
+            "lng": 108.44351459294559
+        },
+        "total_rooms": 20,
+        "total_floors": 3,
+        "phone": "01232382323",
+        "website": "ahfjd",
+        "description": "Toa nha dung de xu ly cac cong tac ho tro sinh vien",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/5.jpg"
+        ]
+    },
+
+    {
+        "id": "6",
+        "name": "A6 (Hỗ trợ khởi nghiệp)",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Hỗ trợ khởi nghiệp",
+        "geo": {
+            "lat": 11.956007214724533,
+            "lng": 108.44537302851677
+        },
+        "total_floors": 2,
+        "phone": "01232382323",
+        "website": "a ",
+        "description": "Tòa nhà dùng để sinh viên học tập, làm việc",
+        "list_photo": ["assets/images/map/A6/1.JPG"]
+    },
+
+    {
+        "id": "7",
+        "name": "Tòa A7",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Học tập và hỗ trợ sinh viên",
+        "geo": {
+            "lat": 11.955935054062524,
+            "lng": 108.4465055912733
+        },
+        "total_rooms": 16,
+        "total_floors": 2,
+        "phone": "01232382323",
+        "website": " ia",
+        "description": "Toa nha dung de xu ly cac cong tac ho tro sinh vien",
+        "list_photo": ["assets/images/map/A7/1.HEIC"]
+    },
+
+    {
+        "id": "8",
+        "name": "Tòa A8",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Địa điểm học tập",
+        "geo": {
+            "lat": 11.955685443624168,
+            "lng": 108.44678085297345
+        },
+        "total_rooms": 14,
+        "total_floors": 2,
+        "phone": "01232382323",
+        "website": "afhd",
+        "description": "Tòa nhà dùng để sinh viên học tập, làm việc",
+        "list_photo": ["assets/images/map/A8/1.HEIC"]
+    },
+    {
+        "id": "9",
+        "name": "Sân khấu ngoài trời",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Địa điểm tập văn nghệ (chua co anh)",
+        "geo": {
+            "lat": 11.954782448879923,
+            "lng": 108.44541259109972
+        },
+        "phone": "01232382323",
+        "website": "ahfjd",
+        "description": "Dia diem tap van nghe",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/7.jpg"
+        ]
+    },
+
+    {
+        "id": "10",
+        "name": "Nhà giữ xe",
+        "hour_open": "07:00",
+        "hour_close": "21:00",
+        "uses_place": "Địa điểm gửi xe (chua co anh)",
+        "geo": {
+            "lat": 11.95399982913051,
+            "lng": 108.44501629471779
+        },
+        "phone": "01232382323",
+        "website": "a ",
+        "description": "Giá gửi xe 2k/xe máy và 1k/xe đạp",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/5.jpg"
+        ]
+    },
+
+    {
+        "id": "11",
+        "name": "Tòa A11",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Địa điểm hỗ trợ sinh viên",
+        "geo": {
+            "lat": 11.955763180408233,
+            "lng": 108.44741653650999
+        },
+        "total_rooms": 27,
+        "total_floors": 4,
+        "phone": "01232382323",
+        "description": "Toa nha dung de xu ly cac cong tac ho tro sinh vien",
+        "list_photo": ["assets/images/map/A11/1.HEIC"]
+    },
+
+    {
+        "id": "12",
+        "name": "AI Center",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Trung tâm giáo dục đào tạo AI (chua co anh)",
+        "geo": {
+            "lat": 11.955712995904618,
+            "lng": 108.44408791512251
+        },
+        "total_floors": 1,
+        "phone": "01232382323",
+        "website": "afhd",
+        "description": "Tham quan và đăng ký các khóa học về AI",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/7.jpg"
+        ]
+    },
+
+    {
+        "id": "13",
+        "name": "Hội trường Thống nhất (chua co anh)",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "chua co du lieu that",
+        "geo": {
+            "lat": 11.955805492825622,
+            "lng": 108.44472259283066
+        },
+        "total_rooms": 20,
+        "total_floors": 1,
+        "phone": "01232382323",
+        "website": "ahfjd",
+        "description": "Toa nha dung de xu ly cac cong tac ho tro sinh vien",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/7.jpg"
+        ]
+    },
+
+    {
+        "id": "14",
+        "name": "Căn tin",
+        "hour_open": "07:00",
+        "hour_close": "17:00",
+        "uses_place": "Địa điểm ăn uống (chua co anh)",
+        "geo": {
+            "lat": 11.95749831209642,
+            "lng": 108.44503171741962
+        },
+        "phone": "01232382323",
+        "website": "a ",
+        "description": "Địa điểm ăn uống",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/7.jpg"
+        ]
+    },
+
+    {
+        "id": "15",
+        "name": "Trung tâm thông tin - thư viện",
+        "hour_open": "07:00",
+        "hour_close": "20:00",
+        "uses_place": "Địa điểm học tập, thực hành và mượn sách",
+        "geo": {
+            "lat": 11.957159814689904,
+            "lng": 108.44486474990845
+        },
+        "total_rooms": 10,
+        "total_floors": 4,
+        "phone": "0123238232348984734",
+        "website": "https:google.com/dhfjdhdf/fhdjkfhdkjf/fdjhfdkjhfdkj/ia",
+        "description": "Toa nha dung de xu ly cac cong tac ho tro sinh vien",
+        "list_photo": [
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/5.jpg",
+            "assets/images/map/thu_vien/7.jpg",
+            "assets/images/map/thu_vien/6.jpg"
+        ]
+    },
+
+    {
+        "id": "16",
+        "name": "Toà A16",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "chưa có thông tin (chua co anh)",
+        "geo": {
+            "lat": 11.9566766679487,
+            "lng": 108.44670575112104
+        },
+        "phone": "01232382323",
+        "website": "https:google.com/dhfjdhdf/fhdjkfhdkjf/fdjhfdkjhfdkj/",
+        "description": "Tòa nhà dùng để sinh viên học tập, làm việc",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/7.jpg"
+        ]
+    },
+
+    {
+        "id": "17",
+        "name": "Nhà gửi xe cổng sau (chua co anh)",
+        "hour_open": "07:00",
+        "hour_close": "21:00",
+        "uses_place": "Địa điểm gửi xe",
+        "geo": {
+            "lat": 11.956956125639437,
+            "lng": 108.44459418207407
+        },
+        "phone": "01232382323",
+        "website": "ahfjd",
+        "description": "Địa điểm gửi xe",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/7.jpg"
+        ]
+    },
+
+    {
+        "id": "18",
+        "name": "Tòa A18",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Địa điểm hỗ trợ sinh viên",
+        "geo": {
+            "lat": 11.956420498145292,
+            "lng": 108.446089848876
+        },
+        "total_rooms": 7,
+        "total_floors": 1,
+        "description": "Hỗ trợ sinh viên các khoa luật, du lịch , lịch sử",
+        "list_photo": ["assets/images/map/A18/1.JPG"]
+    },
+
+    {
+        "id": "19",
+        "name": "Tòa A19",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Địa điểm hỗ trợ sinh viên",
+        "geo": {
+            "lat": 11.956909877379568,
+            "lng": 108.44602715224028
+        },
+        "total_rooms": 10,
+        "total_floors": 1,
+        "description": "học tập và thí nghiệm",
+        "list_photo": ["assets/images/map/A19/1.HEIC"]
+    },
+
+    {
+        "id": "20",
+        "name": "Tòa A20",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Học tập và làm việc",
+        "geo": {
+            "lat": 11.95719458285389,
+            "lng": 108.4463634341955
+        },
+        "total_rooms": 13,
+        "total_floors": 2,
+        "phone": "01232382323",
+        "website": "afhd",
+        "description": "Tòa nhà dùng để sinh viên học tập, làm việc",
+        "list_photo": ["assets/images/map/A20/1.JPG"]
+    },
+    {
+        "id": "21",
+        "name": "Tòa A21",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Học tập và làm việc",
+        "geo": {
+            "lat": 11.956741940369433,
+            "lng": 108.44557218253613
+        },
+        "total_rooms": 5,
+        "total_floors": 1,
+        "phone": "01232382323",
+        "website": "ahfjd",
+        "description": "Toa nha dung de xu ly cac cong tac ho tro sinh vien",
+        "list_photo": ["assets/images/map/A21/1.HEIC"]
+    },
+
+    {
+        "id": "22",
+        "name": "Sân bóng chuyền (chua co anh)",
+        "hour_open": "07:00",
+        "hour_close": "22:00",
+        "uses_place": "Địa điểm thể thao",
+        "geo": {
+            "lat": 11.957291999289552,
+            "lng": 108.44674833118914
+        },
+        "phone": "01232382323",
+        "description": "Dùng cho các hoạt động liên quan đến bóng chuyền",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/7.jpg"
+        ]
+    },
+
+    {
+        "id": "23",
+        "name": "Sân bóng đá (chua co anh)",
+        "hour_open": "07:00",
+        "hour_close": "22:00",
+        "uses_place": "Địa điểm hỗ trợ sinh viên",
+        "geo": {
+            "lat": 11.9570227099997,
+            "lng": 108.4473866969347
+        },
+        "phone": "01232382323",
+        "description": "Toa nha dung de xu ly cac cong tac ho tro sinh vien",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/7.jpg"
+        ]
+    },
+
+    {
+        "id": "24",
+        "name": "Tòa A24",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Địa điểm hỗ trợ sinh viên",
+        "geo": {
+            "lat": 11.956578595286928,
+            "lng": 108.44464883208275
+        },
+        "total_rooms": 7,
+        "total_floors": 2,
+        "phone": "01232382323",
+        "website": "afhd",
+        "description": "Tòa nhà dùng để sinh viên học tập, làm việc",
+        "list_photo": ["assets/images/map/A24/1.HEIC"]
+    },
+    {
+        "id": "25",
+        "name": "Tòa A25",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "chua co du lieu that",
+        "geo": {
+            "lat": 11.956640259707179,
+            "lng": 108.44390518963337
+        },
+        "total_rooms": 20,
+        "total_floors": 3,
+        "phone": "01232382323",
+        "website": "ahfjd",
+        "description": "Toa nha dung de xu ly cac cong tac ho tro sinh vien",
+        "list_photo": ["assets/images/map/A25/1.JPG"]
+    },
+
+    {
+        "id": "26",
+        "name": "Sân thể chất và nhà thi đấu",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Thế thao",
+        "geo": {
+            "lat": 11.956319145364816,
+            "lng": 108.44756741076709
+        },
+        "total_rooms": 9,
+        "total_floors": 1,
+        "phone": "01232382323",
+        "website": "a ",
+        "description": "Tòa nhà dùng để sinh viên học tập, làm việc",
+        "list_photo": ["assets/images/map/nha_thi_dau/1.HEIC"]
+    },
+
+    {
+        "id": "27",
+        "name": "Tòa A27",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Địa điểm hỗ trợ sinh viên",
+        "geo": {
+            "lat": 11.955655595317182,
+            "lng": 108.44307806342839
+        },
+        "total_rooms": 14,
+        "total_floors": 3,
+        "phone": "01232382323",
+        "website": " ia",
+        "description": "Toa nha dung de xu ly cac cong tac ho tro sinh vien",
+        "list_photo": ["assets/images/map/A27/1.JPG"]
+    },
+
+    {
+        "id": "28",
+        "name": "Tòa A30",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Địa điểm học tập",
+        "geo": {
+            "lat": 11.95648019458722,
+            "lng": 108.4430291131139
+        },
+        "total_rooms": 14,
+        "total_floors": 2,
+        "phone": "01232382323",
+        "website": "afhd",
+        "description": "Tòa nhà dùng để sinh viên học tập, làm việc",
+        "list_photo": ["assets/images/map/A30/1.JPG"]
+    },
+
+    {
+        "id": "29",
+        "name": "Tòa A31 (chua co anh)",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Địa điểm hỗ trợ sinh viên",
+        "geo": {
+            "lat": 11.957851569112648,
+            "lng": 108.44408288598062
+        },
+        "total_rooms": 16,
+        "total_floors": 3,
+        "phone": "01232382323",
+        "website": "ahfjd",
+        "description": "Học tập và làm việc",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/7.jpg"
+        ]
+    },
+    {
+        "id": "30",
+        "name": "Nhà anh Khoa",
+        "hour_open": "07:00",
+        "hour_close": "18:00",
+        "uses_place": "Nhà anh Khoa ",
+        "geo": {
+            "lat": 11.937208712126575,
+            "lng": 108.42640645802022
+        },
+        "total_rooms": 7,
+        "total_floors": 1,
+        "phone": "01232382323",
+        "website": "website truong",
+        "description": "Nơi anh Khoa code và ăn uống",
+        "list_photo": [
+            "assets/images/map/thu_vien/1.png",
+            "assets/images/map/thu_vien/2.PNG",
+            "assets/images/map/thu_vien/3.jpg",
+            "assets/images/map/thu_vien/4.jpg",
+            "assets/images/map/thu_vien/7.jpg"
+        ]
+    }
+]

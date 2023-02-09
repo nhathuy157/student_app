@@ -1,0 +1,56 @@
+{"ranger_money_category":[
+    {
+        "id_range_money": "0-50k",
+        "min": "0",
+        "max": "50000"
+    },
+    {
+        "id_range_money": "50k-100k",
+        "min": "50000",
+        "max": "100000"
+    },
+    {
+        "id_range_money": "100k-200k",
+        "min": "100000",
+        "max": "200000"
+    },
+    {
+        "id_range_money": "200k-500k",
+        "min": "200000",
+        "max": "500000"
+    },
+    {
+        "id_range_money": "500k-1m",
+        "min": "500000",
+        "max": "1000000"
+    },
+    {
+        "id_range_money": "1m-2m",
+        "min": "1000000",
+        "max": "2000000"
+    },
+    {
+        "id_range_money": "2m-5m",
+        "min": "2000000",
+        "max": "5000000"
+    },
+    {
+        "id_range_money": "5m-10m",
+        "min": "5000000",
+        "max": "10000000"
+    },
+    {
+        "id_range_money": "10m-20m",
+        "min": "10000000",
+        "max": "20000000"
+    },
+    {
+        "id_range_money": "20m-50m",
+        "min": "20000000",
+        "max": "50000000"
+    },
+    {
+        "id_range_money": "50m-orther",
+        "min": "50000000"
+    }
+]}

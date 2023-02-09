@@ -1,0 +1,36 @@
+{
+    "items": [{
+
+            "position": "Bí thư Đảng ủy",
+            "name": "TS. Lê Minh Chiến",
+            "email": " Email: thangnt@dlu.edu.vn"
+
+        },
+        {
+
+            "position": "Phó bí thư Đảng ủy",
+            "name": "TS. Nguyễn Văn Vinh",
+            "email": "Email: vinhnv@dlu.edu.vn"
+        },
+        {
+
+            "position": "UBTV Đảng ủy",
+            "name": "TS. Mai Minh Nhật",
+            "email": "Email: nhatmm@dlu.edu.vn"
+        },
+        {
+
+            "position": "Đảng ủy viên",
+            "name": "TS. Trịnh Thị Tú Anh",
+            "email": "Email: anhttt@dlu.edu.v"
+        },
+        {
+
+            "position": "Đảng ủy viên",
+            "name": "TS. Trần Hữu Duy",
+            "email": "Email: duyth@dlu.edu.vn"
+        }
+
+
+    ]
+}

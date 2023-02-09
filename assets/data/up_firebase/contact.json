@@ -1,0 +1,114 @@
+[
+ {
+  "id_contact": 1,
+  "id_user": 1,
+  "phone_number": "(540) 949-6723",
+  "email": "wkoch@hotmail.com",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 2,
+  "id_user": 1,
+  "phone_number": "(291) 300-5788",
+  "email": "jessica.osinski@glover.net",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 3,
+  "id_user": 1,
+  "phone_number": "(883) 474-3403",
+  "email": "little.eulah@shields.com",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 4,
+  "id_user": 1,
+  "phone_number": "(228) 466-6076",
+  "email": "halie03@yahoo.com",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 5,
+  "id_user": 2,
+  "phone_number": "(246) 325-7389",
+  "email": "jalen.ziemann@stamm.info",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 6,
+  "id_user": 2,
+  "phone_number": "(953) 656-2455",
+  "email": "eschimmel@yahoo.com",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 7,
+  "id_user": 2,
+  "phone_number": "(532) 851-53(955)",
+  "email": "ojerde@cartwright.net",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 8,
+  "id_user": 2,
+  "phone_number": "(939) 628-1331",
+  "email": "kuhic.franz@gmail.com",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 9,
+  "id_user": 2,
+  "phone_number": "(869) 950-0412",
+  "email": "antoinette96@yahoo.com",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 10,
+  "id_user": 3,
+  "phone_number": "(410) 992-8851",
+  "email": "arden89@hartmann.org",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 11,
+  "id_user": 3,
+  "phone_number": "(857) 209-4115",
+  "email": "skiles.rylan@gmail.com",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 12,
+  "id_user": 3,
+  "phone_number": "(405) 776-9491",
+  "email": "geovanni89@hotmail.com",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 13,
+  "id_user": 3,
+  "phone_number": "(997) 423-6084",
+  "email": "marcelo.mcglynn@yahoo.com",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ },
+ {
+  "id_contact": 14,
+  "id_user": 3,
+  "phone_number": "(335) 629-3032",
+  "email": "jcummerata@gmail.com",
+  "messenger": "m.me\/109402498436941",
+  "zalo": null
+ }
+]

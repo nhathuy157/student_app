@@ -1,0 +1,24 @@
+{
+    "items": [{
+
+            "position": "Hiệu trưởng",
+            "name": "TS. Lê Minh Chiến",
+            "email": " Email: thangnt@dlu.edu.vn"
+
+        },
+        {
+
+            "position": "Phó hiệu trưởng",
+            "name": "PGS.TS. Nguyễn Tất Thắng",
+            "email": "Email: thangnt@dlu.edu.vn"
+        },
+        {
+
+            "position": "Phó hiệu trưởng",
+            "name": "TS. Mai Minh Nhật",
+            "email": "Email: nhatmm@dlu.edu.vn"
+        }
+
+
+    ]
+}

@@ -1,0 +1,250 @@
+﻿[
+    {
+        "id_patten_product": "1",
+        "id_post": "1",
+        "name_pattern": "Đen",
+        "price": "227000",
+        "amount": "4"
+    },
+    {
+        "id_patten_product": "2",
+        "id_post": "1",
+        "name_pattern": "Xanh",
+        "price": "227000",
+        "amount": "2"
+    },
+    {
+        "id_patten_product": "3",
+        "id_post": "1",
+        "name_pattern": "Xám",
+        "price": "227000",
+        "amount": "5"
+    },
+    {
+        "id_patten_product": "4",
+        "id_post": "2",
+        "name_pattern": "Đen",
+        "price": "248000",
+        "amount": "1"
+    },
+    {
+        "id_patten_product": "5",
+        "id_post": "2",
+        "name_pattern": "Xám",
+        "price": "248000",
+        "amount": "6"
+    },
+    {
+        "id_patten_product": "6",
+        "id_post": "3",
+        "name_pattern": "đen",
+        "price": "289000",
+        "amount": "8"
+    },
+    {
+        "id_patten_product": "7",
+        "id_post": "3",
+        "name_pattern": "đen",
+        "price": "800000",
+        "amount": "6"
+    },
+    {
+        "id_patten_product": "8",
+        "id_post": "4",
+        "name_pattern": "39",
+        "price": "430000",
+        "amount": "5"
+    },
+    {
+        "id_patten_product": "9",
+        "id_post": "4",
+        "name_pattern": "40",
+        "price": "430000",
+        "amount": "6"
+    },
+    {
+        "id_patten_product": "10",
+        "id_post": "4",
+        "name_pattern": "41",
+        "price": "430000",
+        "amount": "4"
+    },
+    {
+        "id_patten_product": "11",
+        "id_post": "4",
+        "name_pattern": "42",
+        "price": "430000",
+        "amount": "8"
+    },
+    {
+        "id_patten_product": "12",
+        "id_post": "5",
+        "name_pattern": "Màu xám",
+        "price": "269000",
+        "amount": "8"
+    },
+    {
+        "id_patten_product": "13",
+        "id_post": "6",
+        "price": "85000",
+        "amount": "8"
+    },
+    {
+        "id_patten_product": "14",
+        "id_post": "7",
+        "price": "142000",
+        "amount": "8"
+    },
+    {
+        "id_patten_product": "15",
+        "id_post": "8",
+        "price": "140000",
+        "amount": "5"
+    },
+    {
+        "id_patten_product": "16",
+        "id_post": "9",
+        "price": "254900",
+        "amount": "7"
+    },
+    {
+        "id_patten_product": "17",
+        "id_post": "10",
+        "price": "9000",
+        "amount": "6"
+    },
+    {
+        "id_patten_product": "18",
+        "id_post": "11",
+        "price": "125000",
+        "amount": "2"
+    },
+    {
+        "id_patten_product": "19",
+        "id_post": "12",
+        "name_pattern": "Gấu xanh",
+        "price": "7000",
+        "amount": "5"
+    },
+    {
+        "id_patten_product": "20",
+        "id_post": "12",
+        "name_pattern": "Thỏ hồng",
+        "price": "7000",
+        "amount": "9"
+    },
+    {
+        "id_patten_product": "21",
+        "id_post": "13",
+        "name_pattern": "Hồng animal",
+        "price": "125000",
+        "amount": "4"
+    },
+    {
+        "id_patten_product": "22",
+        "id_post": "13",
+        "name_pattern": "Hồng công chúa",
+        "price": "125000",
+        "amount": "6"
+    },
+    {
+        "id_patten_product": "23",
+        "id_post": "13",
+        "name_pattern": "Hồng hello",
+        "price": "119000",
+        "amount": "2"
+    },
+    {
+        "id_patten_product": "24",
+        "id_post": "13",
+        "name_pattern": "Vàng Minion",
+        "price": "125000",
+        "amount": "8"
+    },
+    {
+        "id_patten_product": "25",
+        "id_post": "13",
+        "name_pattern": "Xanh animal",
+        "price": "125000",
+        "amount": "4"
+    },
+    {
+        "id_patten_product": "26",
+        "id_post": "13",
+        "name_pattern": "Xanh doremon",
+        "price": "129000",
+        "amount": "1"
+    },
+    {
+        "id_patten_product": "27",
+        "id_post": "14",
+        "name_pattern": "Chuột mic",
+        "price": "69000",
+        "amount": "8"
+    },
+    {
+        "id_patten_product": "28",
+        "id_post": "14",
+        "name_pattern": "Công chúa",
+        "price": "65000",
+        "amount": "8"
+    },
+    {
+        "id_patten_product": "29",
+        "id_post": "14",
+        "name_pattern": "Gấu",
+        "price": "69000",
+        "amount": "8"
+    },
+    {
+        "id_patten_product": "30",
+        "id_post": "14",
+        "name_pattern": "Mèo",
+        "price": "69000",
+        "amount": "8"
+    },
+    {
+        "id_patten_product": "31",
+        "id_post": "14",
+        "name_pattern": "Thỏ",
+        "price": "69000",
+        "amount": "4"
+    },
+    {
+        "id_patten_product": "32",
+        "id_post": "14",
+        "name_pattern": "Xe car",
+        "price": "69000",
+        "amount": "2"
+    },
+    {
+        "id_patten_product": "33",
+        "id_post": "15",
+        "price": "2800",
+        "amount": "10"
+    },
+    {
+        "id_patten_product": "34",
+        "id_post": "16",
+        "price": "262000",
+        "amount": "6"
+    },
+    {
+        "id_patten_product": "35",
+        "id_post": "17",
+        "price": "538000",
+        "amount": "2"
+    },
+    {
+        "id_patten_product": "36",
+        "id_post": "18",
+        "price": "218400",
+        "amount": "5"
+    },
+    {
+        "id_patten_product": "37",
+        "id_post": "19",
+        "price": "396000",
+        "amount": "7"
+    }
+]

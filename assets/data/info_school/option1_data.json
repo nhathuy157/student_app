@@ -1,0 +1,41 @@
+{
+    "items": [{
+
+            "name": "TẦM NHÌN",
+            "description": "Đến năm 2030, Trường Đại học Đà Lạt hướng tới trở thành trường đại học mang tầm khu vực Đông Nam Á.",
+            "image": "assets/images/vision.png"
+        },
+        {
+
+            "name": "SỨ MỆNH",
+            "description": "Trường Đại học Đà Lạt là một trường đào tạo đa ngành, đa lĩnh vực, trình độ, loại hình; cung cấp nguồn nhân lực chất lượng cao; là trung tâm nghiên cứu khoa học, chuyển giao công nghệ.",
+            "image": "assets/images/mission.png"
+        },
+        {
+
+            "name": "MỤC TIÊU",
+            "description": "Đào tạo, nghiên cứu và cung cấp dịch vụ chất lượng cao.",
+            "image": "assets/images/purpose.png"
+        },
+        {
+
+            "name": "GIÁ TRỊ CỐT LÕI",
+            "description": "CHẤT LƯỢNG – SÁNG TẠO – TRÁCH NHIỆM",
+            "image": "assets/images/value.png"
+        },
+        {
+
+            "name": "TRIẾT LÝ GIÁO DỤC",
+            "description": "“Học cho bản thân – Học vì đất nước – Học để đổi mới, sáng tạo và hội nhập”.",
+            "image": "assets/images/education.png"
+        },
+
+        {
+
+            "name": "GIÁ TRỊ VĂN HÓA",
+            "description": "(1) Dân chủ; (2) Minh bạch; (3) Đổi mới; và (4) Chất lượng.",
+            "image": "assets/images/cultural.png"
+        }
+
+    ]
+}

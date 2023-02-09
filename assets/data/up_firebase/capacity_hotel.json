@@ -1,0 +1,26 @@
+{"capacity_hotel":[
+    {
+        "id_capacity": 1,
+        "name_capacity": "1 - 2 Người"
+    },
+    {
+        "id_capacity": 2,
+        "name_capacity": "2 - 4 Người"
+    },
+    {
+        "id_capacity": 3,
+        "name_capacity": "4 - 8 Người"
+    },
+    {
+        "id_capacity": 4,
+        "name_capacity": "8 - 12 Người"
+    },
+    {
+        "id_capacity": 5,
+        "name_capacity": "12 - 15 Người"
+    },
+    {
+        "id_capacity": 6,
+        "name_capacity": "Trên 15 Người"
+    }
+]}

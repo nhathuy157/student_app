@@ -1,0 +1,70 @@
+{"location_category":[
+    {
+      "id_category_location": "1",
+      "name_location": "Phường 1"
+    },
+    {
+      "id_category_location": "2",
+      "name_location": "Phường 2"
+    },
+    {
+      "id_category_location": "3",
+      "name_location": "Phường 3"
+    },
+    {
+      "id_category_location": "4",
+      "name_location": "Phường 4"
+    },
+    {
+      "id_category_location": "5",
+      "name_location": "Phường 5"
+    },
+    {
+      "id_category_location": "6",
+      "name_location": "Phường 6"
+    },
+    {
+      "id_category_location": "7",
+      "name_location": "Phường 7"
+    },
+    {
+      "id_category_location": "8",
+      "name_location": "Phường 8"
+    },
+    {
+      "id_category_location": "9",
+      "name_location": "Phường 9"
+    },
+    {
+      "id_category_location": "10",
+      "name_location": "Phường 10"
+    },
+    {
+      "id_category_location": "11",
+      "name_location": "Phường 11"
+    },
+    {
+      "id_category_location": "12",
+      "name_location": "Phường 12"
+    },
+    {
+      "id_category_location": "13",
+      "name_location": "Xuân Thọ"
+    },
+    {
+      "id_category_location": "14",
+      "name_location": "Tà Nung"
+    },
+    {
+      "id_category_location": "15",
+      "name_location": "Trạm Hành"
+    },
+    {
+      "id_category_location": "16",
+      "name_location": "Xuân Trường"
+    },
+    {
+      "id_category_location": "default",
+      "name_location": "Khác"
+    }
+  ]}

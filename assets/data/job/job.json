@@ -1,0 +1,1584 @@
+
+[
+ {
+  "id_job": 1,
+  "id_category_location": 8,
+  "id_category_fields": "pg-pb-le-tan",
+ 
+  "id_natural": "full_time",
+  "time": "6h-14h^14h-21h",
+  "id_type_salary": 1,
+  "name_job": "Lễ Tân",
+  "salary_min": 5500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 2,
+  "id_category_location": 8,
+  "id_category_fields": "pg-pb-le-tan",
+ 
+  "id_natural": "full_time",
+  "time": "8h-16h",
+  "id_type_salary": 1,
+  "name_job": "Buồng Phòng",
+  "salary_min": 5500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 3,
+  "id_category_location": 6,
+  "id_category_fields": "pg-pb-le-tan",
+ 
+  "id_natural": "part-time",
+  "time": "10h-14h^11h-13h",
+  "id_type_salary": 3,
+  "name_job": "Buồng Phòng",
+  "salary_min": 55000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 4,
+  "id_category_location": 8,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+  "id_natural": "full_time",
+  "time": "6h30-15h^6h30-17h",
+  "id_type_salary": 1,
+  "name_job": "Phục vụ",
+  "salary_min": 4500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 5,
+  "id_category_location": 8,
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "Trừng bày Pepsi ở Minimart",
+  "salary_min": 6000000,
+  "salary_max": 8000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 6,
+  "id_category_location": "default",
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Marketing",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 7,
+  "id_category_location": "default",
+  "id_category_fields": "tai-chinh-ke-toan-kiem-toan",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Finance",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 8,
+  "id_category_location": "default",
+  "id_category_fields": "tai-chinh-ke-toan-kiem-toan",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Sales",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 9,
+  "id_category_location": "default",
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Human Resources",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 10,
+  "id_category_location": 11,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 3,
+  "name_job": "Nhân viên phục vụ",
+  "salary_min": 20000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 11,
+  "id_category_location": 5,
+  "id_category_fields": "sinh-hoc",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "Kỹ thuật viên nuôi cấy mô",
+  "salary_min": 5000000,
+  "salary_max": 9000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 12,
+  "id_category_location": 11,
+  "id_category_fields": "sinh-hoc",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "Nhân viên nuôi cấy mô",
+  "salary_min": 6000000,
+  "salary_max": 8000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 13,
+  "id_category_location": 11,
+  "id_category_fields": "sinh-hoc",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 3,
+  "name_job": "Nhân viên nuôi cấy mô",
+  "salary_min": 17000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 14,
+  "id_category_location": 5,
+  "id_category_fields": "cong-nghe-thong-tin",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "Content And Social Media Developer",
+  "salary_min": 6500000,
+  "salary_max": 8200000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 15,
+  "id_category_location": 8,
+  "id_category_fields": "pg-pb-le-tan",
+ 
+  "id_natural": "full_time",
+  "time": "6h-14h^14h-21h",
+  "id_type_salary": 1,
+  "name_job": "Lễ Tân",
+  "salary_min": 5500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 16,
+  "id_category_location": 8,
+  "id_category_fields": "pg-pb-le-tan",
+ 
+  "id_natural": "full_time",
+  "time": "8h-16h",
+  "id_type_salary": 1,
+  "name_job": "Lễ Tân",
+  "salary_min": 5500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 17,
+  "id_category_location": 6,
+  "id_category_fields": "pg-pb-le-tan",
+ 
+  "id_natural": "part-time",
+  "time": "10h-14h^11h-13h",
+  "id_type_salary": 3,
+  "name_job": "Lễ Tân",
+  "salary_min": 55000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 18,
+  "id_category_location": 8,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "full_time",
+  "time": "6h30-15h^6h30-17h^17h-10h",
+  "id_type_salary": 1,
+  "name_job": "Phục vụ",
+  "salary_min": 4500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 19,
+  "id_category_location": 8,
+  "id_category_fields": "tai-chinh-ke-toan-kiem-toan",
+ 
+  "id_natural": "full_time",
+  "time": "8h-15h",
+  "id_type_salary": 1,
+  "name_job": "Kế toán nội bộ",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 20,
+  "id_category_location": 11,
+  "id_category_fields": "thuc-pham-dv-an-uong",
+ 
+  "id_natural": "part-time",
+  "time": "12h-18h",
+  "id_type_salary": 1,
+  "name_job": "Đóng gói rau củ",
+  "salary_min": 4000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 21,
+  "id_category_location": 8,
+  "id_category_fields": "khac",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 3,
+  "name_job": "Phát tờ rơi",
+  "salary_min": 30000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 22,
+  "id_category_location": 8,
+  "id_category_fields": "thuc-pham-dv-an-uong",
+ 
+  "id_natural": "full_time",
+  "time": "6h-14h^14h-9h",
+  "id_type_salary": 1,
+  "name_job": "Pha chế",
+  "salary_min": 5500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 23,
+  "id_category_location": 3,
+  "id_category_fields": "pg-pb-le-tan",
+ 
+  "id_natural": "full_time",
+  "time": "5h30-14h^14h-21h",
+  "id_type_salary": 1,
+  "name_job": "Lễ Tân",
+  "salary_min": 5000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 24,
+  "id_category_location": 3,
+  "id_category_fields": "pg-pb-le-tan",
+ 
+  "id_natural": "full_time",
+  "time": "5h30-14h^14h-21h",
+  "id_type_salary": 1,
+  "name_job": "Giám Sát Buồn Phòng",
+  "salary_min": 7000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 25,
+  "id_category_location": 3,
+  "id_category_fields": "pg-pb-le-tan",
+ 
+  "id_natural": "part-time",
+  "time": "6h-10h^6h-12h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên buồng phòng",
+  "salary_min": 4000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 26,
+  "id_category_location": 3,
+  "id_category_fields": "pg-pb-le-tan",
+ 
+  "id_natural": "full_time",
+  "time": "5h30-14h^14h-21h",
+  "id_type_salary": 1,
+  "name_job": "Nhân Viên Hành Lý",
+  "salary_min": 5000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 27,
+  "id_category_location": "default",
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "part-time",
+  "time": "15h-22h",
+  "id_type_salary": 3,
+  "name_job": "NAM nhân viên trưng bày cho nhãn hàng nước giải khát Pepsi",
+  "salary_min": 25000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 28,
+  "id_category_location": 3,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "part-time",
+  "time": "7h-11h^13h-17h^19h-23h",
+  "id_type_salary": null,
+  "name_job": "Nhân viên phục vụ",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 29,
+  "id_category_location": 3,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "full_time",
+  "time": "7h-11h^13h-17h^19h-23h",
+  "id_type_salary": 3,
+  "name_job": "Nhân viên phục vụ",
+  "salary_min": 20000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 30,
+  "id_category_location": 11,
+  "id_category_fields": "sinh-hoc",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Kỹ thuật viên nuôi cấy mô",
+  "salary_min": 5000000,
+  "salary_max": 9000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 31,
+  "id_category_location": "default",
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": null,
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "THỰC TẬP VỊ TRÍ CONTENT AND SOCIAL MEDIA DEVELOPER",
+  "salary_min": 6500000,
+  "salary_max": 8000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 32,
+  "id_category_location": 6,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "part-time",
+  "time": "7h-11h^11h-15h^15h-19h^19h-21h",
+  "id_type_salary": 1,
+  "name_job": "Nhân Viên Phục Vụ",
+  "salary_min": 2500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 33,
+  "id_category_location": 6,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "full_time",
+  "time": "7h-14h^4h-21h",
+  "id_type_salary": 1,
+  "name_job": "Thu ngân",
+  "salary_min": 4500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 34,
+  "id_category_location": 2,
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": null,
+  "time": "8h-17h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên sale",
+  "salary_min": 7000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 35,
+  "id_category_location": 2,
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": null,
+  "time": "8h-17h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên bán hàng",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 36,
+  "id_category_location": "default",
+  "id_category_fields": "thiet-ke-my-thuat",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "SENIOR DESIGNER",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 37,
+  "id_category_location": "default",
+  "id_category_fields": "nong-lam-ngu-nghiep",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Kĩ sư nông nghiệp",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 38,
+  "id_category_location": 8,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 3,
+  "name_job": "Nhân viên phục vụ",
+  "salary_min": 22000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 39,
+  "id_category_location": "default",
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Marketing",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 40,
+  "id_category_location": "default",
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Finance",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 41,
+  "id_category_location": "default",
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Sales",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 42,
+  "id_category_location": "default",
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Human Resources",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 43,
+  "id_category_location": 5,
+  "id_category_fields": "khac",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Gia sư",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 44,
+  "id_category_location": 1,
+  "id_category_fields": "quan-ly-dieu-hanh",
+ 
+  "id_natural": "full_time",
+  "time": "Full time : 7h-21h",
+  "id_type_salary": 1,
+  "name_job": "Cửa hàng phó",
+  "salary_min": 12000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 45,
+  "id_category_location": 1,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "full_time",
+  "time": "Full time: 7h-21h",
+  "id_type_salary": 1,
+  "name_job": "Thu ngân",
+  "salary_min": 7000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 46,
+  "id_category_location": 1,
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "part-time",
+  "time": "7h-13h^13h-19h^15h-21h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên bán hàng",
+  "salary_min": 4000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 47,
+  "id_category_location": 1,
+  "id_category_fields": "bao-ve-ve-si-an-ninh",
+ 
+  "id_natural": "full_time",
+  "time": "7h-21h",
+  "id_type_salary": 1,
+  "name_job": "Bảo vệ",
+  "salary_min": 8000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 48,
+  "id_category_location": 11,
+  "id_category_fields": "sinh-hoc",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "Nhân viên Nuôi cấy mô",
+  "salary_min": 6000000,
+  "salary_max": 8000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 49,
+  "id_category_location": "default",
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "Nhân viên bán hàng",
+  "salary_min": 22000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 50,
+  "id_category_location": 1,
+  "id_category_fields": "khac",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Review về trường đại học Đà Lạt",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 51,
+  "id_category_location": 2,
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "REVIEWER - MARKETING INTERN",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 52,
+  "id_category_location": "default",
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "full_time",
+  "time": "8h-18h",
+  "id_type_salary": null,
+  "name_job": "Nhân viên bán hàng",
+  "salary_min": 5500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 53,
+  "id_category_location": "default",
+  "id_category_fields": "khac",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "Nhân viên phân tích kinh doanh",
+  "salary_min": 8000000,
+  "salary_max": 35000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 54,
+  "id_category_location": 4,
+  "id_category_fields": "khac",
+ 
+  "id_natural": "full_time",
+  "time": "8h00-17h30 ",
+  "id_type_salary": null,
+  "name_job": "Nhân viên phụ trách dự án Giáo dục - Phát triển cộng đồng",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 55,
+  "id_category_location": "default",
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "part-time",
+  "time": "7h-13h^14h-21h",
+  "id_type_salary": 1,
+  "name_job": "Nhân Viên Bán Hàng",
+  "salary_min": 4000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 56,
+  "id_category_location": 1,
+  "id_category_fields": "khac",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "TRỢ LÝ HÌNH ẢNH",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 57,
+  "id_category_location": 1,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "part-time",
+  "time": "18h-24h",
+  "id_type_salary": 1,
+  "name_job": "Phục vụ",
+  "salary_min": 3000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 58,
+  "id_category_location": 4,
+  "id_category_fields": "bao-ve-ve-si-an-ninh",
+ 
+  "id_natural": "part-time",
+  "time": "18h-24h",
+  "id_type_salary": 1,
+  "name_job": "Bảo vệ",
+  "salary_min": 5000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 59,
+  "id_category_location": 2,
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Nhân viên triển khai sản phẩm",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 60,
+  "id_category_location": "default",
+  "id_category_fields": "khac",
+ 
+  "id_natural": "full_time",
+  "time": "8h-20h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên giặt là",
+  "salary_min": 7000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 61,
+  "id_category_location": "default",
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": "full_time",
+  "time": "giờ hành chính",
+  "id_type_salary": null,
+  "name_job": "Nhân Viên Kinh Doanh",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 62,
+  "id_category_location": "default",
+  "id_category_fields": "khac",
+ 
+  "id_natural": "full_time",
+  "time": "giờ hành chính",
+  "id_type_salary": null,
+  "name_job": "Nghiên Cứu Viên",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 63,
+  "id_category_location": 2,
+  "id_category_fields": "cong-nghe-thong-tin",
+ 
+  "id_natural": "full_time",
+  "time": "giờ hành chính",
+  "id_type_salary": null,
+  "name_job": "Trình diễn mô hình nông nghiệp công nghệ",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 64,
+  "id_category_location": 2,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 3,
+  "name_job": "Nhân viên phục vụ",
+  "salary_min": 25000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 65,
+  "id_category_location": 2,
+  "id_category_fields": "quan-ly-dieu-hanh",
+ 
+  "id_natural": "full_time",
+  "time": "8h-20h",
+  "id_type_salary": 1,
+  "name_job": "Quản lí",
+  "salary_min": 8000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 66,
+  "id_category_location": 2,
+  "id_category_fields": "bao-ve-ve-si-an-ninh",
+ 
+  "id_natural": "full_time",
+  "time": "8h-20h",
+  "id_type_salary": 1,
+  "name_job": "Bảo vệ",
+  "salary_min": 6500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 67,
+  "id_category_location": 2,
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": "full_time",
+  "time": "8h-20h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên marketing",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 68,
+  "id_category_location": 2,
+  "id_category_fields": "khac",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 3,
+  "name_job": "Phát tờ rơi",
+  "salary_min": 100000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 69,
+  "id_category_location": "default",
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "full_time",
+  "time": "8h-20h",
+  "id_type_salary": null,
+  "name_job": "Nhân viên vệ sinh",
+  "salary_min": 8000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 70,
+  "id_category_location": "default",
+  "id_category_fields": "khac",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "Merchandising Administrative Assistant: trợ lý hành chính buôn bán",
+  "salary_min": 1400000,
+  "salary_max": 1500000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 71,
+  "id_category_location": 2,
+  "id_category_fields": "cham-soc-khach-hang",
+ 
+  "id_natural": "full_time",
+  "time": "8h30 – 17h30",
+  "id_type_salary": 1,
+  "name_job": "TƯ VẤN VIÊN QUA ĐIỆN THOẠI",
+  "salary_min": 12000000,
+  "salary_max": 18000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 72,
+  "id_category_location": "default",
+  "id_category_fields": "kinh-doanh",
+ 
+  "id_natural": "full_time",
+  "time": "8h-17h",
+  "id_type_salary": 1,
+  "name_job": "nhân viên kinh doanh",
+  "salary_min": 5000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 73,
+  "id_category_location": 4,
+  "id_category_fields": "khac",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "Maps Operation Asociate",
+  "salary_min": 8500000,
+  "salary_max": 22500000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 74,
+  "id_category_location": "default",
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "full_time",
+  "time": "8h-17h",
+  "id_type_salary": 1,
+  "name_job": "Phụ Việc",
+  "salary_min": 5000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 75,
+  "id_category_location": 8,
+  "id_category_fields": "khac",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "BTV-CTV ON&OFFLINE",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 76,
+  "id_category_location": 10,
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "full_time",
+  "time": "12h-24h",
+  "id_type_salary": 1,
+  "name_job": "Phục vụ",
+  "salary_min": 8000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 77,
+  "id_category_location": 10,
+  "id_category_fields": "bao-ve-ve-si-an-ninh",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "NHÂN VIÊN BẢO VỆ",
+  "salary_min": 5000000,
+  "salary_max": 7000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 78,
+  "id_category_location": 10,
+  "id_category_fields": "lao-dong-pho-thong",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "NHÂN VIÊN RANG XAY",
+  "salary_min": 6000000,
+  "salary_max": 8000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 79,
+  "id_category_location": 10,
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "NHÂN VIÊN BÁN HÀNG",
+  "salary_min": 6000000,
+  "salary_max": 9000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 80,
+  "id_category_location": 10,
+  "id_category_fields": "thuc-pham-dv-an-uong",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "NHÂN VIÊN PHA CHẾ\/BARTENDER",
+  "salary_min": 6000000,
+  "salary_max": 9000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 81,
+  "id_category_location": 10,
+  "id_category_fields": "thuc-pham-dv-an-uong",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "NHÂN VIÊN QUẦY FASTFOOD:",
+  "salary_min": 6000000,
+  "salary_max": 9000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 82,
+  "id_category_location": 10,
+  "id_category_fields": "khac",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "NHÂN VIÊN THỔI TÙ VÀ",
+  "salary_min": 5000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 83,
+  "id_category_location": 10,
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "NHÂN VIÊN BÁN VÉ",
+  "salary_min": 6000000,
+  "salary_max": 8000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 84,
+  "id_category_location": 1,
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "full_time",
+  "time": "8h-16h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên bán hàng",
+  "salary_min": 5000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 85,
+  "id_category_location": "default",
+  "id_category_fields": "quan-ly-dieu-hanh",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Giám sát thu mua sữa nguyên liệu",
+  "salary_min": 7000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 86,
+  "id_category_location": "default",
+  "id_category_fields": "lao-dong-pho-thong",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên Vận hành máy vắt sữa",
+  "salary_min": 6500000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 87,
+  "id_category_location": "default",
+  "id_category_fields": "lao-dong-pho-thong",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên Chăm sóc bò, bê",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 88,
+  "id_category_location": "default",
+  "id_category_fields": "lao-dong-pho-thong",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "QC Thức ăn chăn nuôi",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 89,
+  "id_category_location": "default",
+  "id_category_fields": "co-khi-ki-thuat-ung-dung",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Lái máy nông nghiệp",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 90,
+  "id_category_location": "default",
+  "id_category_fields": "co-khi-ki-thuat-ung-dung",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Giám sát Bảo trì Nhà máy",
+  "salary_min": 8000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 91,
+  "id_category_location": "default",
+  "id_category_fields": "co-khi-ki-thuat-ung-dung",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên Bảo trì Điện lạnh",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 92,
+  "id_category_location": "default",
+  "id_category_fields": "co-khi-ki-thuat-ung-dung",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên Vận hành máy chế biến sữa \n",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 93,
+  "id_category_location": "default",
+  "id_category_fields": "lao-dong-pho-thong",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Công nhân Nhà máy sữa",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 94,
+  "id_category_location": "default",
+  "id_category_fields": "bao-ve-ve-si-an-ninh",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Bảo vệ",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 95,
+  "id_category_location": "default",
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên dọn vệ sinh",
+  "salary_min": 7000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 96,
+  "id_category_location": "default",
+  "id_category_fields": "thuc-pham-dv-an-uong",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên nấu ăn",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 97,
+  "id_category_location": "default",
+  "id_category_fields": "tai-chinh-ke-toan-kiem-toan",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Kế toán",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 98,
+  "id_category_location": "default",
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-15h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên bán hàng",
+  "salary_min": 6000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 99,
+  "id_category_location": "default",
+  "id_category_fields": "thuc-pham-dv-an-uong",
+ 
+  "id_natural": "full_time",
+  "time": "10h- 22h, nghỉ trưa từ 2-4h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên order",
+  "salary_min": 10000000,
+  "salary_max": 12000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 100,
+  "id_category_location": "default",
+  "id_category_fields": "khac",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "CTV biên soạn chương trình môn Công nghệ cấp 3",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 101,
+  "id_category_location": 6,
+  "id_category_fields": "khac",
+ 
+  "id_natural": "part-time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Tuyển CTV biên soạn giáo án môn Sinh học cấp 3:",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 102,
+  "id_category_location": 1,
+  "id_category_fields": "thuc-pham-dv-an-uong",
+ 
+  "id_natural": "full_time",
+  "time": "15h-22h",
+  "id_type_salary": 1,
+  "name_job": "phụ bếp",
+  "salary_min": 7000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 103,
+  "id_category_location": 1,
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-17h",
+  "id_type_salary": 1,
+  "name_job": "Nhân Viên Bán Hàng",
+  "salary_min": 6000000,
+  "salary_max": 9000000,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 104,
+  "id_category_location": "default",
+  "id_category_fields": "bao-ve-ve-si-an-ninh",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-17h",
+  "id_type_salary": 1,
+  "name_job": "Bảo vệ",
+  "salary_min": 7000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 105,
+  "id_category_location": "default",
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "full_time",
+  "time": "7h30-17h",
+  "id_type_salary": 1,
+  "name_job": "Nhân viên vệ sinh",
+  "salary_min": 7000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 106,
+  "id_category_location": "default",
+  "id_category_fields": "quang-cao-marketing-pr",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Trợ lý kinh doanh nữ",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 107,
+  "id_category_location": 1,
+  "id_category_fields": "lao-dong-pho-thong",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Nhân viên tiếp nhận đơn hàng nữ",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 108,
+  "id_category_location": 2,
+  "id_category_fields": "lao-dong-pho-thong",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Nhân viên đóng gói nữ",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 109,
+  "id_category_location": 6,
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": null,
+  "name_job": "Nhân viên bán đồng hồ và kính",
+  "salary_min": null,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 110,
+  "id_category_location": "default",
+  "id_category_fields": "ban-hang",
+ 
+  "id_natural": "full_time",
+  "time": "7h25- 15h25^14h - 22h ",
+  "id_type_salary": 1,
+  "name_job": "Bán hàng và Thu ngân",
+  "salary_min": 4000000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 111,
+  "id_category_location": "default",
+  "id_category_fields": "phuc-vu-tap-vu-giup-viec",
+ 
+  "id_natural": "part-time",
+  "time": "7h-14h^14-21h",
+  "id_type_salary": 3,
+  "name_job": "Chạy tiệc cưới",
+  "salary_min": 18000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 112,
+  "id_category_location": "default",
+  "id_category_fields": "khac",
+ 
+  "id_natural": "part-time",
+  "time": "8h-13h30",
+  "id_type_salary": 3,
+  "name_job": "TTS Marketing Ecommerce",
+  "salary_min": 130000,
+  "salary_max": null,
+  "timePost": null,
+  "images_job": null
+ },
+ {
+  "id_job": 113,
+  "id_category_location": "default",
+  "id_category_fields": "quan-ly-dieu-hanh",
+ 
+  "id_natural": "full_time",
+  "time": null,
+  "id_type_salary": 1,
+  "name_job": "Giám sát kinh doanh khu vực",
+  "salary_min": 2500000,
+  "salary_max": 4000000,
+  "timePost": null,
+  "images_job": null
+ }
+]

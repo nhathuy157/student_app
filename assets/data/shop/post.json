@@ -1,0 +1,173 @@
+﻿[
+    {
+        "id_product": "1",
+        "id_post": "1",
+        "id_user": "1",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "1",
+        "id_post": "2",
+        "id_user": "2",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "1",
+        "id_post": "3",
+        "id_user": "3",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "2",
+        "id_post": "4",
+        "id_user": "4",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "3",
+        "id_post": "5",
+        "id_user": "5",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "4",
+        "id_post": "6",
+        "id_user": "1",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "5",
+        "id_post": "7",
+        "id_user": "2",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "5",
+        "id_post": "8",
+        "id_user": "3",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "6",
+        "id_post": "9",
+        "id_user": "4",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "7",
+        "id_post": "10",
+        "id_user": "3",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "8",
+        "id_post": "11",
+        "id_user": "1",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "9",
+        "id_post": "12",
+        "id_user": "3",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "10",
+        "id_post": "13",
+        "id_user": "2",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "11",
+        "id_post": "14",
+        "id_user": "3",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "12",
+        "id_post": "15",
+        "id_user": "1",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "13",
+        "id_post": "16",
+        "id_user": "3",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "14",
+        "id_post": "17",
+        "id_user": "2",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "15",
+        "id_post": "18",
+        "id_user": "4",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    },
+    {
+        "id_product": "16",
+        "id_post": "19",
+        "id_user": "2",
+        "priceHight": "0",
+        "priceLow": "0",
+        "status": true,
+        "limit": "0"
+    }
+]
